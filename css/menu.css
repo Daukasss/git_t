@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+}
+.grid {
+  height: 100vh;
+}
+.left {
+  background: crimson;
+}
+.right {
+  background: navajowhite;
+  border: 3rem solid rgb(0 0 0 / 10%);
+}
+.grid {
+  transition: 400ams;
+  display: grid;
+  grid-template-columns: 48px auto;
+}
+.grid {
+  transition: 300ms;
+  display: grid;
+  grid-template-columns: var(--left, 48px) auto;
+}
+.grid:has(.left:hover) {
+  --left: 18%;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+}
+.input {
+  width: 165px;
+  height: 25px;
+  margin-left: 45px;
+  background-color: antiquewhite;
+  border: rgb(243, 235, 225);
+  border-radius: 14px;
+  margin-top: 10px;
+  gap: 1px;
+  visibility: hidden; 
+}
+button{
+  width: 60px;
+  height: 25px;
+  background: antiquewhite;
+  border: rgb(210, 205, 198);  
+  border-radius: 14px;
+  transition: .4s;
+  cursor: pointer;
+  visibility: hidden; 
+
+}
+button:hover {
+  background-color: rgb(253, 213, 161);
+  visibility: visible;
+}
+.left:hover button,.left:hover input {
+  visibility: visible;
+}.left{
+  display: flex;
+  gap: 2px;
+}
+button{
+  margin-top: 10px;
+}

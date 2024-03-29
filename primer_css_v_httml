@@ -1,0 +1,51 @@
+head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Httml+css</title>
+    <link rel="stylesheet" href="css/main.css"
+       <!-- p {
+        color: red;
+
+    }-->
+</head>
+<body>
+    <p id="text-in-p">Lorem ipsum <i class="main-text">dolor sit amet consectetur </i>adipisicing elit. Velit, non doloribus.
+         Officia, officiis cum laborum veritatis illo<b class="main-text"> animi. Minima, eum esse at illum 
+         ducimus quaerat illo excepturi consequuntur totam perferendis.</b></p>
+ <div>
+    <p>Lorem ipsum dolor sit amet,<i> consectetur adipisicing elit.</i>
+    Officiis dicta deserunt labore libero eius molestias rerum unde,
+    recusandae alias dolor<b> corrupti similique laboriosam ipsam doloribus
+    repellat quasi provident consequatur</b> doloremque?</p>
+ </div>
+<!--vtoroi-->
+ <a href="#" class="main-link">ссылка</a>
+ <p class="main-link">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+ Quia iste aut aspernatur quaerat blanditiis sint odit illum 
+ repudiandae beatae velit temporibus exercitationem delectus sequi
+  voluptate labore unde neque, accusantium minus.</p>
+  <input type="text" placeholder="input text">
+  <p class="text">simple</p>
+  <p class="text"></p>
+  <div id="cl">some text</div>
+  <!--treti-->
+  <div id="first"></div>
+  <div id="second"></div>
+    <!--четвертый-->
+    <p class="main-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        Tempora consequatur distinctio, molestias saepe rerum 
+        doloremque possimus amet voluptas reiciendis fugiat quibusdam rem,
+         sit aliquid autem facilis corporis. Dignissimos, accusamus vero.</p>
+         <!--пятый-->
+         <div class="block"> simple</div>
+    <span class="block">simple</span>
+    <!--шестой-->
+    <div id="some_block">*</div>
+      <div id="header">Header</div>
+      <div id="main">Основная часть</div>
+      <div id="aside">Боковая часть </div>
+      <div id="footer">Футер</div>
+      <!--седьмой-->
+      
+</body>
+</html>

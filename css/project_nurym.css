@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#a{
+    display: flex;
+    justify-content: space-between;
+}
+.main2{
+    margin-top: 1.5%;
+    text-decoration: none;
+    color: #000;
+    padding: 0px 20px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    padding: 0 50px 0 30px;
+    font-size: 20px;
+}
+.left-side,
+.right-side {
+    display: flex;
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.q{
+    color:#fff;
+    text-decoration: none;
+}
+.main5{
+    background: #1b1b1b;
+    height: 631px; 
+    margin-top: 15px;
+    padding-top: 20px; 
+    color: #fff;
+}
+.main4{
+    background: #fff;
+    height: 631px; 
+    margin-top: 15px;
+    padding-top: 20px; 
+    color: #000000;
+    margin-bottom: -140px;
+}
+.accessory-image {
+    max-width: 100%;
+    max-height: 100%;
+    padding-right: 10%;
+    padding-top: 10px; 
+    padding-left: 15%;
+}
+.info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    margin: 0 12% 0 12%;
+    font-size: 30px;
+    
+}
+.img{
+    display: flex;
+    justify-content: space-between ;
+    padding: 0 12% ;
+    padding-top:25px ;
+    padding-bottom:10px ;
+    height: 400px;
+    gap: 150px;
+}
+.k{
+    display: flex;
+    justify-content: space-between;
+    padding:10px 470px 0 145px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+}
+#id{
+    color: #fff;
+}
+.j{
+    display: flex;
+    justify-content: space-between;
+    padding:10px 470px 0 145px;
+    text-decoration: none;
+    color: #000;
+    font-size: 20px;
+}
+#id2{
+    color: #000;
+}
+.end{
+    display: flex;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.link{
+    color: #fff;
+    text-decoration: none;
+}
+.la{
+    padding: 10px;
+    font-size: 15px;
+}
+.social-icons{
+    margin-left: 100px;
+    margin-top: 10px;
+    font-size: 25px;
+    gap: 3px;
+}
+.social{
+    padding: 10px;
+}
+.lk{
+    font-size: 20px;
+}
+.name {
+    margin-top: 20px;
+}
+.l{
+    width: 60px;
+    height: 50px;
+    aspect-ratio: 1/1;
+}
+body{
+    flex-wrap: wrap;
+}

@@ -1,0 +1,201 @@
+/*.main-text {
+    color: red;
+}
+#text-in-p{
+    color: blue;
+}
+div b, div i{
+    color: green;
+}
+/*div, .name-class, #id, div p {
+    color: red;
+}*/
+                                      /*vtoroi*/
+/*p.text:not(:empty)::after{
+    color: grey;
+    content: '213';
+
+}
+.main-link{
+    color: red;
+    text-decoration: none;
+}
+.main-link:hover{
+    color: blue;
+    text-decoration: underline;
+    text-decoration-color: orange;
+    cursor:pointer;
+}
+
+.main-link:active{
+     text-decoration: dashed ;
+}
+.main-link:visited{
+    color: black;
+}
+input{color: red;}
+input:focus{color: blue;}
+input:required{}
+#cl::after{
+    content: '123';
+}
+p.main-link::first-line{
+    color: green;
+}
+p:first-of-type{
+    text-decoration: line-through;
+}
+p:last-of-type{
+    text-decoration:line-through;
+}*/
+                                      /*treti задний фон*/
+/*#first{
+    background-color: aqua;
+    background-image: url(https://steamuserimages-a.akamaihd.net/ugc/773996018555718103/C1E5E35AA76D5C3BA15E6C193172F6D6EC151CD4/?imw=512&imh=288&ima=fit&impolicy=Letterbox&imcolor=);
+   background-repeat: no-repeat;
+   background-position: center;
+   height: 500px;
+   background-size: cover;
+   background-attachment: fixed;
+}
+#second{
+    height: 2000px;
+}*/
+                                     /*четвертый стили шрифтов */
+/*.main-text{
+    color: aqua;
+    text-align: center;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: bolder;
+    text-transform: capitalize;
+    word-spacing: 20px;
+    letter-spacing: 10px;
+    line-height: 50px;
+}
+body{
+    background-color: black;
+}*/
+                                    /*пятый*/
+/**{
+    margin: 0;
+    padding: 0;
+}
+
+.block{
+    background: red;
+    height: 100vh;
+    width: 170px;
+    border: 20px dotted blue;
+    border-bottom: 0;
+    border-top-style: solid;
+    border-style: double;
+    
+    border-radius: 15px 50%;
+    opacity: 60%;
+    margin: 40px 45px;
+
+    padding: 20px;
+
+    display: block;
+
+}*/
+                                    /*шестой*/
+*{
+    margin: 0;
+    padding: 0;
+}
+/*.block{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    background: red;
+}
+
+
+#first{
+    float: right;
+}
+
+#second{
+    background: blue;
+    float: right;
+     
+}
+
+
+
+#some_block{
+    background: red;
+    color:#fff;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 50%;
+                                             position: absolute;
+
+}
+#header, #footer{
+    width: 100%;
+    height: 70px;
+    text-align: center;
+    border-bottom: 4px solid silver;
+    background: #333;
+    color: #fff;
+    line-height: 70px;
+    margin-bottom: 50px;
+    float: left;
+
+}
+#main{
+    width: 50%;
+    margin-left: 10%;
+    background:#fafafa ;
+    border: 1px solid silver;
+    padding: 20px 2,5%;
+    float: left;
+}
+
+#aside{
+    width: 20%;
+    padding: 20px 2,5%;
+    background:#fafafa ;
+    border: 1px solid silver;
+    float: left;
+    margin-left: 5%;
+                                       position: relative;
+                                       top: -10px;
+}
+#footer{
+    margin-bottom: 0%;
+    margin-top: 50px;
+    margin-bottom: 0;
+    margin-top: 4px solid silver;
+    float: left;
+
+}*/
+                                    /*седьмой*/
+/*.main{
+    background: rebeccapurple;
+    background-color: aqua;
+    width: 100%;
+    height: 50px;
+}
+body{
+    background: blue;
+
+}
+input{
+    background-color: aquamarine;
+    width: 150px;
+    height: 25px;
+    background-repeat:space;  
+    border-radius: 40%;
+}*/
+                                      /*что бы убрать отступы*/
+/*
+*{
+    margin: 0%;
+    padding: 0%;
+}*/
